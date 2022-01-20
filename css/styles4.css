@@ -1,0 +1,41 @@
+.bg-light {
+    background-color: #dc3545 !important;
+    
+}
+
+.navbar-light .navbar-brand {
+    color: #f8f9fa;
+}
+
+
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: #f8f9fa;
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+    color: #f8f9fa;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
+.about-pizaa{
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+}
+.Pizza-Types{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.footer{
+	background-color: #dc3545 !important;
+	color: white;
+	padding: 1.5rem 0;
+}

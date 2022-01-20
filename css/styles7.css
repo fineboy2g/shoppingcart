@@ -1,0 +1,40 @@
+.bg-new{
+	position: relative;
+}
+.jumbotron {
+	 background-color: transparent;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	
+	border-radius: 0px!important
+	color: white;
+}
+
+
+
+ul > li {padding:5px 20px;}
+
+.btn-primary-1 {
+	color: red;
+        background-color: transparent;
+        border-color: red;
+    }
+
+
+
+.footer {
+    background-color:rgb(59, 12, 12);
+    color: white;
+    margin-top: 25px;
+}
+
+.main {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.main-2 {
+	justify-content: center;
+
+	     
+}

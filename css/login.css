@@ -1,0 +1,28 @@
+.bg-new {
+    position: relative;
+    background-color: rgb(59, 12, 12);
+}
+
+ul > li {padding:5px 20px;}
+
+.btn-primary-1 {
+    color: red;
+    background-color: transparent;
+    border-color: red;
+}
+
+.bg-1 {
+	margin-top: 100px;
+	justify-content: center;
+}
+
+.bg-2{
+	margin-left: 400px;
+}
+
+
+.footer {
+    background-color: rgb(59, 12, 12);
+    color: white;
+    margin-top: 200px;
+}

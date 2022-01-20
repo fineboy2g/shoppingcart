@@ -1,0 +1,10 @@
+#body {
+    background-color: #bd2130 !important;
+}
+@media (min-width: 992px)
+.navbar-expand-lg {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
